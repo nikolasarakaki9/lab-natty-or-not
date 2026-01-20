@@ -12,7 +12,7 @@ criação de um ebook para crianças de 2 a 5 anos que estão começando a apren
 Utilização do copilot para a geração das imagens e gemini como auxiliar 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ideia começou perguntando para o copilot sobre animas da letra A a Z para criacar um ebook para crianças pequenas que estão se alfabetizando. usei o proprio copilot para criação e as vezes usei uo gemini para mudar o tamanho da imagem. Depois de finalizado todos os animais, coloquei as imagens geradas no canva e criei um ebook para postar no amazon KDP.
 
 ```
 
