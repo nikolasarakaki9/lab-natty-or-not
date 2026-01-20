@@ -3,13 +3,13 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook alfabeto dos animais ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+criação de um ebook para crianças de 2 a 5 anos que estão começando a aprender a ler,, usando de forma didática o livro com alfabeto animal.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilização do copilot para a geração das imagens e gemini como auxiliar 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
