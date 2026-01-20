@@ -14,20 +14,19 @@ Utilização do copilot para a geração das imagens e gemini como auxiliar
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 ```
 
-![ebook] (Assets/Ebook ALFABETO DOS ANIMAIS - Publicar (2).pdf)
+## 🚀 Resultados
+Abaixo estão os resultados obtidos pela inteligência artifical, a capa e ebook completo.
+
 ![Assets](Assets/imagem.jpeg)
-
-
 <a href="Assets/Ebook ALFABETO DOS ANIMAIS - Publicar (2).pdf">📘 Ebook: O Alfabeto dos Animais</a>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
 
+Creio que com o avanço da inteligência artifical poderá criar ebooks, vídeos, imagens, textos ainda mais profissioanis e reais, com certeza uma possbilidade de monetizar. 
+
+```
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
