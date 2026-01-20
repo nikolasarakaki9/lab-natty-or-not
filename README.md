@@ -17,7 +17,7 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-
+![imagem](https://github.com/nikolasarakaki9/lab-natty-or-not/raw/main/Assets/imagem.png)
 ![imagem](Assets/imagem.png)
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
