@@ -18,7 +18,7 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 
 
-![assets](Assets/imagem.jpeg)
+![Assets](Assets/imagem.jpeg)
 
 
 ## 💭 Reflexão (Opcional)
