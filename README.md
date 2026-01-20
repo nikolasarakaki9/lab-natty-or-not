@@ -17,6 +17,8 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+
+!![imagem](assets/imagem.png)
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
