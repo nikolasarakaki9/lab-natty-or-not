@@ -26,7 +26,7 @@ Abaixo estão os resultados obtidos pela inteligência artifical, a capa e ebook
 
 Creio que com o avanço da inteligência artifical poderá criar ebooks, vídeos, imagens, textos ainda mais profissioanis e reais, com certeza uma possbilidade de monetizar. 
 
-```
+
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
