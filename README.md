@@ -3,7 +3,8 @@
 ### Template
 
 ```markdown
-# Ebook alfabeto dos animais ;)
+
+📚 Ebook alfabeto dos animais ;) 💭
 
 ## 📒 Descrição
 criação de um ebook para crianças de 2 a 5 anos que estão começando a aprender a ler,, usando de forma didática o livro com alfabeto animal.
