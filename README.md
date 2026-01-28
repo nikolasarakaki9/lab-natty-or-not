@@ -24,8 +24,8 @@ Abaixo estão os resultados obtidos pela inteligência artifical, a capa e ebook
 ![Assets](Assets/arara.png)
 ![Assets](Assets/narval.png)
 ![Assets](Assets/macaco.png)
+![Assets](Assets/veado.jpg)
 ![Assets](Assets/sapo.png)
-![Assets](Assets/zebra.png)
 
 
 <a href="Assets/Ebook ALFABETO DOS ANIMAIS - Publicar (2).pdf">📘 Ebook: O Alfabeto dos Animais</a>
