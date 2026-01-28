@@ -21,10 +21,8 @@ A ideia começou perguntando para o copilot sobre animas da letra A a Z para cri
 Abaixo estão os resultados obtidos pela inteligência artifical, a capa e ebook completo.
 
 ![Assets](Assets/imagem.jpeg)
-
-
-
-![Assets](Assets/yak.jpeg)
+![Assets](Assets/narval.png)
+![Assets](Assets/yak.png)
 
 
 <a href="Assets/Ebook ALFABETO DOS ANIMAIS - Publicar (2).pdf">📘 Ebook: O Alfabeto dos Animais</a>
