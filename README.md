@@ -20,8 +20,11 @@ A ideia começou perguntando para o copilot sobre animas da letra A a Z para cri
 ## 🚀 Resultados
 Abaixo estão os resultados obtidos pela inteligência artifical, a capa e ebook completo.
 
+![Assets](Assets/arara.png)
 ![Assets](Assets/imagem.jpeg)
 ![Assets](Assets/narval.png)
+![Assets](Assets/macaco.png)
+![Assets](Assets/sapo.png)
 ![Assets](Assets/yak.png)
 
 
